@@ -27,7 +27,7 @@ public:
 		return coat1.type == coat2.type;
 	}
 
-	void SetType(const char* Type);
+	void SetType(const char* t);
 
 	void print();
 };
